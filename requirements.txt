@@ -1,0 +1,12 @@
+asgiref
+click
+Django
+joblib
+nltk==3.7
+regex
+sqlparse>=0.4.4
+tqdm==4.64.1
+setuptools==67.8.0
+flask
+tensorflow
+opencv-python
